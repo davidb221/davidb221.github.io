@@ -18,3 +18,13 @@ img{
 	height:300px;
 	margin-right: 300px;
 }
+
+div{
+	margin-top: 50px;
+}
+
+#contact{
+	text-align: center;
+	margin-left: 0px;
+	background-color: #303633;
+}
