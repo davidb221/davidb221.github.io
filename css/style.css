@@ -6,10 +6,15 @@ h2{
 	text-align: center;
 }
 
-.gray-background{
-	background-color: #A9B2AC;
+h3{
+	margin-left: 50px;
 }
 
-.dark-background{
-	background-color: #898980;
+p{
+	margin-left: 70px;
+}
+
+img{
+	height:300px;
+	margin-right: 300px;
 }
