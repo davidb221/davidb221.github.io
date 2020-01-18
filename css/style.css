@@ -18,6 +18,26 @@ div{
 	margin-top: 50px;
 }
 
+#about{
+	background-color: #BFEDC1;
+}
+
+#projects{
+	background-color: #EEF5DB;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 3%;
+}
+
+#diff{
+	column-count: 2;
+	column-gap: 40px;
+}
+
 #location{
 	text-align: center;
 }
@@ -60,4 +80,8 @@ div{
 
 .margin{
 	margin: 40px;
+}
+
+#home{
+	font-size: 50px;
 }
